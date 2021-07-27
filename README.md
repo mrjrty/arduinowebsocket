@@ -89,14 +89,3 @@ Where `WStype_t type` is defined as:
       WStype_PONG,
   } WStype_t;
   ```
-
-### Issues ###
-Submit issues to: https://github.com/Links2004/arduinoWebSockets/issues
-
-[![Join the chat at https://gitter.im/Links2004/arduinoWebSockets](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Links2004/arduinoWebSockets?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
-### License and credits ###
-
-The library is licensed under [LGPLv2.1](https://github.com/Links2004/arduinoWebSockets/blob/master/LICENSE)
-
-[libb64](http://libb64.sourceforge.net/) written by Chris Venter. It is distributed under Public Domain see [LICENSE](https://github.com/Links2004/arduinoWebSockets/blob/master/src/libb64/LICENSE).
